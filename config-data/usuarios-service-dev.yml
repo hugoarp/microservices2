@@ -15,3 +15,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8099/eureka
+
+appDescription: "Pragma Powerup"
+appVersion: "1.0.0"
